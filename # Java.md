@@ -524,3 +524,21 @@ Pour les entrées `3` et `4` dans la première méthode, le résultat doit être
 
 **Exemple :**
 Pour l'entrée `"hello"`, le résultat doit être `"olleh"`.
+
+## Projet : Gestion des Employés
+### Objectif : Créer une application console pour gérer les employés d'une entreprise. Vous allez utiliser une approche de programmation structurée pour manipuler des données concernant les employés.
+
+Spécifications du Projet
+Définir une Structure pour les Employés :
+
+Attributs : ID, nom, poste, salaire
+Méthodes : Getter et Setter pour chaque attribut
+Fonctionnalités de Gestion des Employés :
+
+Ajouter un employé
+Supprimer un employé par ID
+Afficher les détails de tous les employés
+Afficher les détails d'un employé spécifique par ID
+Gestion des Données :
+
+Utiliser un tableau ou une liste pour stocker les employés.
